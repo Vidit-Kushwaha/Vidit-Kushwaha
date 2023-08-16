@@ -22,8 +22,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vidit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vidit" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidit-kushwaha&show_icons=true&locale=en&layout=compact" alt="vidit-kushwaha" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidit-kushwaha&show_icons=true&locale=en" alt="vidit-kushwaha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidit-kushwaha&theme=dark" alt="vidit-kushwaha" /></p>
